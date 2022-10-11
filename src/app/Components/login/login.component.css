@@ -1,0 +1,22 @@
+.field{
+    width: 100%;
+}
+
+.card{
+    width: 40%;
+    margin: auto;
+    padding: 20px;
+}
+
+.container{
+    margin-top: 100px;
+}
+
+.card h1{
+    text-align: center;
+}
+
+.LoginBtn{
+    margin-left: 10px;
+    margin-right: 10px;
+}
